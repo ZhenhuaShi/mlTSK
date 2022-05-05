@@ -1,4 +1,4 @@
-mlTSK toolbox: Optimize TSK fuzzy system for regression and classification on big data
+mlTSK toolbox: Optimize TSK fuzzy systems for regression and classification on big data
 % ml: matlab, or machine learning
 % big data: large-scale and large-volume
 
